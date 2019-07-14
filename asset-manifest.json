@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creme-verte-deploy/static/css/main.5facb584.chunk.css",
+    "main.js": "/creme-verte-deploy/static/js/main.cddb293c.chunk.js",
+    "main.js.map": "/creme-verte-deploy/static/js/main.cddb293c.chunk.js.map",
+    "runtime~main.js": "/creme-verte-deploy/static/js/runtime~main.c9a2b10f.js",
+    "runtime~main.js.map": "/creme-verte-deploy/static/js/runtime~main.c9a2b10f.js.map",
+    "static/js/2.5f9f68f8.chunk.js": "/creme-verte-deploy/static/js/2.5f9f68f8.chunk.js",
+    "static/js/2.5f9f68f8.chunk.js.map": "/creme-verte-deploy/static/js/2.5f9f68f8.chunk.js.map",
+    "index.html": "/creme-verte-deploy/index.html",
+    "precache-manifest.25f9017d0e477274248438c24e585163.js": "/creme-verte-deploy/precache-manifest.25f9017d0e477274248438c24e585163.js",
+    "service-worker.js": "/creme-verte-deploy/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/creme-verte-deploy/static/css/main.5facb584.chunk.css.map"
+  }
+}
